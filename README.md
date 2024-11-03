@@ -36,4 +36,5 @@ matplotlib>=3.4.3
 
 Before | After
 :-------------------------:|:-------------------------:
-![Grayscale](examples/grayscale.jpg) | ![Colorized](examples/colorized.jpg)
+![Grayscale]![a1](https://github.com/user-attachments/assets/c9f4d4ec-de83-4c19-8a5c-83946b902a18) | ![Colorized]![a2](https://github.com/user-attachments/assets/95208f16-d755-4861-8adc-eedb3017f614)
+![Grayscale]![a3](https://github.com/user-attachments/assets/75a0f49b-3181-4b17-83e2-d71eaad11dbc) | ![Colorized]![a4](https://github.com/user-attachments/assets/ac2faff9-99e3-4583-a764-2b2d5e6ab548)
